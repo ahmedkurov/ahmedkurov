@@ -41,8 +41,8 @@ I'm a passionate novice programmer diving deep into the world of **frontend deve
 ---
 
 ## 📫 Let's Connect!  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Email**: imthiyazahmedkurov@gmail.com  
+- **LinkedIn**: www.linkedin.com/in/ahmed43  
 
 ---
 
@@ -52,7 +52,7 @@ Did you know that the **first ever website** is still live today? It's [info.cer
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedkurov&show_icons=true&theme=radical)  
 
 ---
 
